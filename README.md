@@ -1,10 +1,11 @@
-# NLP-MiniProject
+# 📄 Resume-to-Interview Prep Assistant
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 
 ## 📝 Description
 
-Dive into the world of Natural Language Processing with NLP-MiniProject, a Python-based initiative designed to explore fundamental NLP concepts. This project provides a hands-on learning experience, allowing you to implement and experiment with various NLP techniques. While specific features are currently under development, the core focus will be on building a foundation for understanding and applying NLP principles using Python's powerful libraries. Stay tuned for updates as we add more features and expand the project's capabilities!
+An AI-powered Interview Preparation Assistant built using Streamlit, LangChain, and Google’s Gemini model.
+This app analyzes your resume (PDF) and a job description to automatically generate personalized interview questions and model answers (using the STAR method) — helping you prepare for your next interview with confidence.
 
 ## 🛠️ Tech Stack
 
